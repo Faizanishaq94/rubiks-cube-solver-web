@@ -35,3 +35,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# AI agent instructions (local-only, not shared via the repo)
+CLAUDE.md
+AGENTS.md
